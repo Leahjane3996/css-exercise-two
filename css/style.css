@@ -2,7 +2,7 @@ body {
   background-color: white;
   color: black;
   font-size: 16px;
-  line-height: 1.2;
+  line-height: 2px;
 }
 h1 {
   font-size: 2em; /* 32px */
@@ -11,9 +11,12 @@ h1 {
 }
 h3 {
   font-size: 1.5em; /* 24px */
-  line-height: 2em;
+  line-height: 2px;
   padding:10px;
 }
+p {
+  padding: 5px;
+  }
 nav {
   background-color: rgba(0,0,0,.5);
   float: left;
